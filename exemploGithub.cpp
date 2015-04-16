@@ -3,7 +3,7 @@
 
 int main(){
 	
-	int nota, contador=0;
+	int nota=0, contador=0;
 	
 	while(contador < 10){
 		
