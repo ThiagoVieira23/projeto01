@@ -5,7 +5,7 @@ int main(){
 	
 	int nota=0, contador=0;
 	
-	while(contador < 10){
+	while(contador < 5){
 		
 		printf("Coloque sua a nota do aluno %d :", contador);
 		scanf("%d", &nota);
